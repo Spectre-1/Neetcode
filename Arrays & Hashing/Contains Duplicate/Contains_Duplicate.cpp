@@ -16,5 +16,10 @@ public:
     }
 };
 
+// Created a hashmap to store the frequency of each element in the array
+// Loop through the vector and check if the frequency of the element is greater than or equal to 2
+// If it is, return true
+// Else, return false
+
 // Runtime: O(n)
 // Space: O(n)

@@ -24,5 +24,12 @@ public:
     }
 };
 
+// Created a vector of ints to store ans
+// Created a hashmap to store the frequency of each element in the array
+// Created a vector of pairs to store the key and value of the hashmap
+// Sorted the vector of pairs in descending order
+// Loop through the vector of pairs and push the first k elements into the ans
+// Return ans
+
 // runtime: o(nlogn)
 // space: o(n)

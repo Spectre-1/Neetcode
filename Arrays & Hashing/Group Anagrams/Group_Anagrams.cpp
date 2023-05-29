@@ -19,5 +19,13 @@ public:
         return ans;
     }
 };
+// Created a vector of vector of strings to store ans
+// Created a hashmap to store the sorted string as key and the vector of strings as value
+// Loop through the vector of strings
+// Sort the string
+// Push the string into the hashmap
+// Loop through the hashmap and push the vector of strings into the ans
+// Return ans
+
 // runtime: o(nklogk)
 // space: o(nk)
