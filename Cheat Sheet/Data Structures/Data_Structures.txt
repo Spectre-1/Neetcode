@@ -1,0 +1,29 @@
+Arrays + Strings 
+==========================================
+Run time complexities of common operations
+==========================================
+Access: O(1)                              
+Search: O(n)                                
+Insertion: O(n)                             
+Deletion: O(n)
+
+Vectors
+==========================================
+Run time complexities of common operations
+==========================================
+Access: O(1)
+Search: O(n)
+Insertion: O(n)
+Insertion at end: O(1)
+Deletion: O(n)
+Deletion at end: O(1)
+
+Stack [FILO]
+==========================================
+Run time complexities of common operations
+==========================================
+Push: O(1)
+Pop: O(1)
+Top: O(1)
+Search: O(n)
+
