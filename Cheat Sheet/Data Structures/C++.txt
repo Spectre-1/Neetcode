@@ -1,0 +1,19 @@
+C++ Specfic Stuff
+
+Arrays + Strings 
+==========================================
+Run time complexities of common operations
+==========================================
+at
+
+Vectors
+==========================================
+Run time complexities of common operations
+==========================================
+
+
+Stack [FILO]
+==========================================
+Run time complexities of common operations
+==========================================
+
